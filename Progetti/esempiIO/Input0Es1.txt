@@ -1,0 +1,7 @@
+598 (seme)
+Mare Cielo Strada
+Mare Strada
+lista delle frasi corrispondenti alle parole chiave:
+Mare : [ IlBluDelMareNonHaLimiti , IlMareViveInOgnunoDiNoi , ChiHaRobaInMareNonHaNulla , UnMareCalmoNonHaMaiFattoUnBuonMarinaio ]
+Cielo : [ NonMiStancoMaiDiUnCieloAzzurro , SoloIlCieloTiParlaInPienoViso , MeNeVadoInGiroConIlCieloInTascaAllInsaputaDeiPoeti ]
+Strada : [ NonPuoiViaggiareSuUnaStradaSenzaEssereTuStessoLaStrada , TuttiIPiuGrandiPensieriSonoConcepitiMentreSiCammina , LaTartarugaBatteAchillePercheConosceLaStrada , NonTiAffrettareIlBuonCamminatoreArriva , SoloIDemoniPercorronoStradeDiritte ]    
